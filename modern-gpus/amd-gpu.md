@@ -15,6 +15,10 @@ Supported Cards:
 * RX 6600
 * RX 6600 XT
 
+Radeon Pro:
+
+* Radeon Pro W6600
+
 Note: Most Navi 23 cards currently require the boot argument `agdpmod=pikera` to get a display out.
 
 Needed kexts:
